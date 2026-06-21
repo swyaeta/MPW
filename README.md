@@ -15,8 +15,7 @@ I went with full neo-brutalist on this website — thick black borders everywher
 
 ## The webpages
 
-**`index.html`** — this is home page.it is scattered tilted cards like sticky notes thrown on a desk lol. the hero card (my name + tagline) has this thick offset shadow that makes it pop out 3d-ish, with extra padding around it so it doesnt feel cramped and actually breathes a bit. theres a welcome card next to it being all heyyyyy welcome to my site, a small card listing hack club/robotics/tkd/grade as quick tags, an interests card, and two buttons at the bottom — learn more and contact. every single card is rotated at a slightly different angle on purpose so it looks handmade and not some boring perfect grid. dark mode toggle and visit counter chilling on top.
-
+**`index.html`** — this is home page.it is scattered tilted cards like sticky notes thrown on a desk lol. the hero card (my name + tagline) has this thick offset shadow that makes it pop out 3d-ish, with extra padding around it so it doesnt feel cramped and actually breathes a bit. theres a welcome card next to it being all heyyyyy welcome to my site, a small card listing hack club/robotics/tkd/grade as quick tags, an interests card, and two buttons at the bottom — learn more and contact. every single card is rotated at a slightly different angle and its is minimalist.
 <img width="1827" height="883" alt="Screenshot (894)" src="https://github.com/user-attachments/assets/8fbbcdb9-660e-4820-a8ff-d7b5cff1dbe6" />
 
 
