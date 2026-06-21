@@ -5,7 +5,7 @@ live link is here: **https://swyaeta.github.io/MPW/**
 
 basically I wanted one place where people can see who I am, what I've made, what I'm learning and learn about me, so yeah this is that one place now.
 
-## the design
+## The design
 
 I went with full neo-brutalist on this website — thick black borders everywhere, hard offset shadows (the kind that look 3D-ish when you hover), bold uppercase headers in Orbitron font, and Rajdhani for the regular text. colors are pink + berry + a neon yellow accent which honestly took me a while to select ( i probally spent a hour deciding on colours. There's also a dark mode toggle because obviously every website needs one in 2026. I basically choosed the colours to be like hello kitty themed.
 <img width="1833" height="863" alt="Screenshot (898)" src="https://github.com/user-attachments/assets/f793c5ef-e551-4594-9f83-8a393c047cbd" /> 
