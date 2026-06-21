@@ -31,7 +31,7 @@ sectionwise its basically one big card per topic stacked down the page — hero,
 <img width="1848" height="883" alt="Screenshot (896)" src="https://github.com/user-attachments/assets/04b4f371-4556-41e9-a218-2159741c0ca1" />
 
 
-## the code files
+## The code files
 
 **`style.css`** — styles index.html. I used css variables for theming so when you hit the dark mode toggle it just swaps the variable values instead of me having to write two whole separate stylesheets.
 
