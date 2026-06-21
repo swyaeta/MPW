@@ -7,7 +7,7 @@ basically I wanted one place where people can see who I am, what I've made, what
 
 ## The design
 
-I went with full neo-brutalist on this website — thick black borders everywhere, hard offset shadows (the kind that look 3D-ish when you hover), bold uppercase headers in Orbitron font, and Rajdhani for the regular text. colors are pink + berry + a neon yellow accent in my light mode,which honestly took me a while to select ( i probally spent a hour deciding on the colours. There's also a dark mode toggle because obviously every website needs one in 2026. I basically choosed the colours to be like hello kitty themed.
+I went with full neo-brutalist on this website — thick black borders everywhere, hard offset shadows (the kind that look 3D-ish when you hover), bold uppercase headers in Orbitron font, and Rajdhani for the regular text. colors are pink + berry + a neon yellow accent in my light mode, which honestly took me a while to select ( i probally spent a hour deciding on the colours. There's also a dark mode toggle because obviously every website needs one in 2026. I basically choosed the colours to be like hello kitty themed.
 <img width="1833" height="863" alt="Screenshot (898)" src="https://github.com/user-attachments/assets/f793c5ef-e551-4594-9f83-8a393c047cbd" /> 
 <img width="1891" height="860" alt="Screenshot (897)" src="https://github.com/user-attachments/assets/2f399a92-4a45-431f-8472-b83ff57570ad" />
  These are the dark mode theme
