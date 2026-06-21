@@ -50,4 +50,6 @@ sectionwise its basically one big card per topic stacked down the page — hero,
 HTML5, CSS3 (flexbox + grid + css variables for theming), plain vanilla javascript (no frameworks, no libraries, just raw JS), Google Fonts for Orbitron and Rajdhani, Font Awesome for all the icons, Formspree to handle the contact form without needing an actual backend server, and GitHub Pages for hosting it for free.
 
 So yea, this my portfoilo website made by scratch from css,html and js. 
-thanxs for reading all this
+Bcuz, its my first making a website. I used Claude and gemini for gudiance ( how to deploy,some basic questions) and debugging.
+
+Thanxs for reading all this
