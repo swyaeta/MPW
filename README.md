@@ -31,7 +31,7 @@ sectionwise its basically one big card per topic stacked down the page — hero,
 <img width="1848" height="883" alt="Screenshot (896)" src="https://github.com/user-attachments/assets/04b4f371-4556-41e9-a218-2159741c0ca1" />
 
 
-## the actual code files
+## the code files
 
 **`style.css`** — styles index.html. I used css variables for theming so when you hit the dark mode toggle it just swaps the variable values instead of me having to write two whole separate stylesheets.
 
@@ -45,7 +45,7 @@ sectionwise its basically one big card per topic stacked down the page — hero,
 
 **`.gitignore`** — keeps random OS junk files, editor settings, and any future api keys/secrets out of the actual repo so I don't accidentally leak something dumb later.
 
-## tech stack basically
+## tech stack 
 
 HTML5, CSS3 (flexbox + grid + css variables for theming), plain vanilla javascript (no frameworks, no libraries, just raw JS), Google Fonts for Orbitron and Rajdhani, Font Awesome for all the icons, Formspree to handle the contact form without needing an actual backend server, and GitHub Pages for hosting it for free.
 
