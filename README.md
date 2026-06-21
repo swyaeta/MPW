@@ -13,7 +13,7 @@ I went with full neo-brutalist on this website — thick black borders everywher
  These are the dark mode theme
 
 
-## the webpages
+## The webpages
 
 **`index.html`** — this is home page.it is scattered tilted cards like sticky notes thrown on a desk lol. the hero card (my name + tagline) has this thick offset shadow that makes it pop out 3d-ish, with extra padding around it so it doesnt feel cramped and actually breathes a bit. theres a welcome card next to it being all heyyyyy welcome to my site, a small card listing hack club/robotics/tkd/grade as quick tags, an interests card, and two buttons at the bottom — learn more and contact. every single card is rotated at a slightly different angle on purpose so it looks handmade and not some boring perfect grid. dark mode toggle and visit counter chilling on top.
 
