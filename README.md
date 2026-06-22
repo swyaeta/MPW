@@ -34,7 +34,7 @@ sectionwise its basically one big card per topic stacked down the page — hero,
 
 
 
-**`css`** — combined stylesheet for all.html. same color system as the main one but completely different layout rules bc the navbar and back button needed their own thing.
+**`css`** — combined stylesheet for all.html. same color system as all but completely different layout in every page rules bc the navbar and back button needed their own thing.
 
 **`script.js`** — does three jobs: handles the light/dark toggle (and actually remembers your choice using localStorage so it doesn't reset every time you reload, which annoyed me so much before I fixed it), runs the visit counter (also localStorage based), and makes the nav links scroll smoothly to each section instead of just snapping there instantly.
 
